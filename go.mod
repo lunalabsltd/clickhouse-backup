@@ -58,7 +58,7 @@ require (
 	github.com/Azure/go-autorest/tracing v0.6.0 // indirect
 	github.com/ClickHouse/ch-go v0.58.2 // indirect
 	github.com/andybalholm/brotli v1.0.5 // indirect
-	github.com/antchfx/xpath v1.2.4 // indirect
+	github.com/antchfx/xpath v1.3.6 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.14 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.13.12 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.42 // indirect
