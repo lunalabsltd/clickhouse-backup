@@ -39,9 +39,9 @@ require (
 	github.com/urfave/cli v1.22.14
 	github.com/xyproto/gionice v1.3.0
 	github.com/yargevad/filepathx v1.0.0
-	golang.org/x/crypto v0.14.0
-	golang.org/x/mod v0.13.0
-	golang.org/x/sync v0.4.0
+	golang.org/x/crypto v0.51.0
+	golang.org/x/mod v0.35.0
+	golang.org/x/sync v0.20.0
 	google.golang.org/api v0.146.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
 	gopkg.in/yaml.v3 v3.0.1
@@ -118,10 +118,10 @@ require (
 	go.opentelemetry.io/otel v1.19.0 // indirect
 	go.opentelemetry.io/otel/trace v1.19.0 // indirect
 	go4.org v0.0.0-20230225012048-214862532bf5 // indirect
-	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/oauth2 v0.12.0 // indirect
-	golang.org/x/sys v0.13.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20230913181813-007df8e322eb // indirect
@@ -131,4 +131,4 @@ require (
 	google.golang.org/protobuf v1.31.0 // indirect
 )
 
-go 1.21
+go 1.25.0
